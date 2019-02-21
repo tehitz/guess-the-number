@@ -1,0 +1,3 @@
+/home/santeri/CLionProjects/guess-the-number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/santeri/CLionProjects/guess-the-number/cmake-build-debug/CMakeFiles/guess_the_number.dir
+/home/santeri/CLionProjects/guess-the-number/cmake-build-debug/CMakeFiles/edit_cache.dir
